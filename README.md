@@ -26,7 +26,7 @@ BOM:
 - 12x Cherry MX Switches
 - 12x 1N4148 diodes
 - 1x XIAO RP2040
-- 4x Blank DSA Keycaps (6x Black, 6x White)
+- Blank DSA Keycaps (6x Black, 6x White)
 - 1x SSD1306 128x32 0.91" OLED (5V VCC, 3.3V logic, I2C)
 - 4x M3x16 Bolt
 - 4x M3 Heatset
